@@ -1,0 +1,44 @@
+{
+  "name": "exam",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@microsoft/signalr": "^5.0.3",
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
+    "react-bootstrap-icons": "^1.2.3",
+    "react-datepicker": "^3.4.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie >= 9"
+    ],
+    "development": [
+      "ie 9",
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
