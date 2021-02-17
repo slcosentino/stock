@@ -10,7 +10,7 @@ API based on ASP.NET Core 2.1
 ## How To Run API
 
 * Open solution in Visual Studio 2017
-* Set .Web project as Startup Project and build the project.
+* Set Stock.API project as Startup Project and build the solution.
 * Run the application.
 
 ## How To Run Website
